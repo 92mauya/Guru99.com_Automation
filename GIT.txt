@@ -1,0 +1,46 @@
+git --version
+download git > Install it
+Open a folder in VS Code.
+git init
+git status      : Untracked
+git add .
+git status      : Added
+
+git commit -m "First Commit"   
+
+
+git config --global user.name "ZHossain"
+git config --global user.email "zakir108@gmail.com"
+
+FIX New File with Commit-1
+
+Add a file
+
+git add .
+
+ git commit --amend -m "MissedFile" 
+
+
+
+git add amain.py
+
+
+git commit -m "Your commit message"
+
+Add File: Add from VS: Commit From VS
+
+
+
+mdp 
+american economic journal
+
+Sayedul
+Tomomi
+Allan(BBA)
+
+
+Nakib
+Saqur
+Yeju Mun(BBA)
+
+
